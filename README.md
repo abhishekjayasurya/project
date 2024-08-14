@@ -1,3 +1,4 @@
 # My Projects
-Excel Project:
-[a link] (https://www.microsoft.com/en-in/microsoft-365/excel)
+1. Excel Project
+2. Power BI Project
+3. SQL Project
